@@ -10,7 +10,7 @@ License: GPL
 Summary: Metapackage for C++ development
 Summary(pt_BR): Metapacote para desenvolvimento em C++
 Group: Development/C++
-PreReq: task-c-devel
+Requires: task-c-devel
 Requires: gcc-c++
 Requires: libstdc++-devel
 BuildArch: noarch
