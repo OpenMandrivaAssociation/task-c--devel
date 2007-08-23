@@ -4,7 +4,7 @@
 # COMMITTING YOUR CHANGES FIRST
 
 Name: task-c++-devel
-Version: 2007
+Version: 2008
 Release: %mkrel 1
 License: GPL
 Summary: Metapackage for C++ development
