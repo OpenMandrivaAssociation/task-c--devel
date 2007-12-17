@@ -14,7 +14,6 @@ Requires: task-c-devel
 Requires: gcc-c++
 Requires: libstdc++-devel
 BuildArch: noarch
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This package is a meta-package, meaning that its purpose is to contain
