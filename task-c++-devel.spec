@@ -4,15 +4,14 @@
 # COMMITTING YOUR CHANGES FIRST
 
 Name: task-c++-devel
-Version: 2011.0
-Release: %mkrel 1
+Version: 2012.0
+Release: 1
 License: GPL
 Summary: Metapackage for C++ development
 Summary(pt_BR): Metapacote para desenvolvimento em C++
 Group: Development/C++
 Requires: task-c-devel
 Requires: gcc-c++
-Requires: libstdc++-devel
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
