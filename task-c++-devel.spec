@@ -4,7 +4,7 @@
 # COMMITTING YOUR CHANGES FIRST
 
 Name: task-c++-devel
-Version: 2012.1
+Version: 2013.1
 Release: 1
 License: GPL
 Summary: Metapackage for C++ development
@@ -13,7 +13,6 @@ Group: Development/C++
 Requires: task-c-devel
 Requires: gcc-c++
 BuildArch: noarch
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This package is a meta-package, meaning that its purpose is to contain
