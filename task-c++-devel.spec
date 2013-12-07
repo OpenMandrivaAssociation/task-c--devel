@@ -5,7 +5,7 @@
 
 Name: task-c++-devel
 Version: 2013.1
-Release: 2
+Release: 3
 License: GPL
 Summary: Metapackage for C++ development
 Summary(pt_BR): Metapacote para desenvolvimento em C++
