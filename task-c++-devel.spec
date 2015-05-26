@@ -4,8 +4,8 @@
 # COMMITTING YOUR CHANGES FIRST
 
 Name: task-c++-devel
-Version: %distro_release
-Release: 4
+Version: 2015.0
+Release: 1
 License: GPL
 Summary: Metapackage for C++ development
 Summary(pt_BR): Metapacote para desenvolvimento em C++
@@ -29,6 +29,5 @@ Este pacote não inclui nenhum programa, apenas dependências para outros
 programas.
 
 %files
-%defattr(0644,root,root,0755)
 
 
