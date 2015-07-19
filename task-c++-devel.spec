@@ -5,7 +5,7 @@
 
 Name: task-c++-devel
 Version: 2015.0
-Release: 5
+Release: 6
 License: GPL
 Summary: Metapackage for C++ development
 Summary(pt_BR): Metapacote para desenvolvimento em C++
